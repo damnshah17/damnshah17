@@ -1,152 +1,80 @@
-
 <p align="center">
   <a href="https://github.com/damnshah17">
-    <img
-      src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=48&height=90&width=900&text=Hey%2C%20I'm%20Daaman%20Shah%20%F0%9F%91%8B"
-      alt="Hey, I'm Daaman Shah"
-    />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=826&text=Hey%2C%20I'm%20Daaman%20Shah%20%F0%9F%91%8B" alt="Hey, I&#39;m Daaman Shah 👋" />
   </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=56D4DD&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer+%7C+Backend%2C+Systems+%26+Applied+AI;Building+reliable+software+%26+intelligent+systems"
-    alt="Software Engineer | Backend, Systems & Applied AI"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Backend%20%26%20Systems%20Engineering;Building%20reliable%20software%2C%20intelligent%20systems%20%26%20real-world%20applications" alt="Typing headlines" />
 </p>
+
+### 🚀 About Me
+
+I'm an M.S. Computer Science student at Binghamton University, building software across backend systems, AI applications, and embedded engineering. I enjoy designing reliable services, solving challenging engineering problems, and turning ideas into working systems
+
+🔭 &nbsp;I'm currently working on **Software production infrastructure, and AI design**  
+🌱 &nbsp;I'm currently learning **Distributed systems, AI infrastructure, and system design**  
+👯 &nbsp;I'm looking to collaborate on **Roles in backend engineering, SWE, and applied AI**  
+💬 &nbsp;Ask me about **Backend development, real-time applications, and building AI-powered software**
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/daamanshah17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://daamanshah.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:dshah13@binghamton.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daamanshah17/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://daamanshah.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:dshah13@binghamton.edu">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=damnshah17&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=damnshah17&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
----
-
-### About Me
-
-I'm an M.S. Computer Science student at **Binghamton University**, with experience building full-stack applications, backend services, AI-powered systems, and real-time software.
-
-My work spans distributed messaging, API development, concurrent systems, and embedded control. I enjoy understanding how software works beneath the abstraction layers and engineering systems that are reliable, efficient, and maintainable.
-
-- 🔭 **Building:** Backend services, AI-powered applications, and production-ready software infrastructure
-- 🌱 **Exploring:** Distributed systems, AI inference infrastructure, and system design
-- 🤝 **Interested in:** Open-source backend infrastructure, developer tools, and applied AI
-- 🎯 **Open to:** Software Engineering, Backend, Systems, and Applied AI opportunities
-
----
-
-### Featured Engineering Projects
-
-#### [Schrödinger Human — Real-Time Messaging Platform](https://github.com/damnshah17)
-
-**TypeScript · Node.js · Fastify · Socket.IO · Redis · PostgreSQL**
-
-A real-time human-or-AI conversation platform built around concurrent matchmaking, reliable message delivery, and session recovery.
-
-- Designed FIFO matchmaking with atomic Redis/Lua reservations and disconnect handling.
-- Implemented message idempotency, sequence tracking, and stale-response protection.
-- Load-tested **100 simulated clients across 50 conversations**, achieving **sub-140 ms p95 message delivery** with **4,080/4,080 messages delivered**.
-
-#### [Industrial Robotic Workcell Controller](https://github.com/damnshah17)
-
-**C++20 · C#/.NET · TCP/IP · CMake · GoogleTest**
-
-A simulated industrial automation controller with deterministic execution and explicit machine-safety behavior.
-
-- Implemented a deterministic **10 ms control loop** with machine, sequence, and safety state machines.
-- Designed hardware abstraction interfaces for robot arms, conveyors, sensors, and grippers.
-- Built emergency-stop, timeout, fault detection, and recovery workflows.
-
-#### [Real-Time Embedded Motion Controller](https://github.com/damnshah17)
-
-**C · FreeRTOS · PID Control · Embedded Systems**
-
-A real-time motion-control system with feedback control, periodic tasks, and safety monitoring.
-
-- Implemented a **1 kHz plant simulation** and periodic motion, safety, communication, and telemetry tasks.
-- Developed encoder-feedback PID control with PWM limits, stall detection, and watchdog protection.
-- Validated system behavior with **101 passing tests** and 18 deterministic demonstration scenarios.
-
-#### [CoursePilot AI — AI Learning Platform](https://github.com/damnshah17)
-
-**TypeScript · Node.js · PostgreSQL · Redis · Prisma · Docker**
-
-An AI-powered learning platform designed around retrieval-augmented tutoring and scalable backend architecture.
-
-- Designed a RAG-based tutoring workflow with progressive hints.
-- Built authentication and role-based authorization with PostgreSQL and Prisma.
-- Integrated Redis caching and background-job infrastructure.
-
-> Repository links above currently point to my GitHub profile. Replace them with the individual project URLs.
-
----
-
-### Technical Skills
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend & Web**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-24292F?style=flat-square&logo=socketdotio&logoColor=white)
-
-**Databases & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**AI & Systems**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-178B46?style=flat-square&logo=freertos&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-
----
-
-### GitHub Activity
+### 📈 Contribution Graph
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=damnshah17&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000"
-    alt="GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=damnshah17&layout=compact&theme=tokyonight&title_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=6"
-    alt="Most used repository languages"
-  />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=damnshah17&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-
-<p align="center">
-  <sub>Interested in collaborating or discussing engineering opportunities?</sub>
-</p>
-
-<p align="center">
-  <a href="mailto:dshah13@binghamton.edu"><strong>Let's connect</strong></a>
-</p>
+<p align="center"><i>⭐️ From <a href="https://github.com/damnshah17">damnshah17</a></i></p>
